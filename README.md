@@ -15,7 +15,7 @@
   </a>
 </div><br>
 
-<h3 align="left">🛠 These are the languages and tools I'ved used:</h3> 
+<h3 align="left">🛠 These are the languages and tools I've used:</h3> 
 
 <div>
   <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">&nbsp;
